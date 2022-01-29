@@ -6,3 +6,9 @@ Uses the rewrite of the SFML OpenGL example code originally at https://www.sfml-
 A very quick and dirty rewrite that needs serious optimisation.
 
 Note that when using Cmake Tools in VSCode, it doesn't seem to set the working directory on the run kit, only on the debug kit so it can't find the resource files copied across into the build directory. Also works from the command line though as well.
+
+Uses the resource graphics and texture from the SFML.net OpenGL Examples.
+
+Move mouse to drag OpenGL Rendered Object over the Background SFML Image/Text
+
+![screenshot](https://github.com/davemoore22/cmake-sfml-opengl/blob/master/screenshot.png)
